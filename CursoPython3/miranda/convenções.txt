@@ -1,0 +1,26 @@
+# Como nomear uma variável - nome significativos
+peso = 500
+altura = 180
+
+# Variáveis de múltiplas palavras
+nome_completo = 'Gabriel Souza'
+
+# Variáveis com uma palavra
+marca = 'dell'
+
+# Como nomear constantes
+PESO = 100
+PESO_MAXIMO = 200
+
+# Como nomear funções
+def desligar_computador()
+	print('Desligando o computador')
+
+# Como nomear classes
+class Computador:
+	pass
+class ComputadorGamer:
+	pass
+
+# Função construtora
+def __init__(self):
