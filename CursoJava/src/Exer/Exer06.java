@@ -1,3 +1,5 @@
+package Exer;
+
 import java.util.Scanner;
 
 public class Exer06 {
