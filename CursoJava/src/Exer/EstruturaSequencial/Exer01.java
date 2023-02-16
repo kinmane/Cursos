@@ -1,4 +1,4 @@
-package Exer;
+package Exer.EstruturaSequencial;
 import java.util.Scanner;
 
 public class Exer01 {
