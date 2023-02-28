@@ -14,30 +14,30 @@ public class Exer18 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Informe um código (1, 2 ou 3): ");
-		int cod = sc.nextInt();
+//		System.out.print("Informe um código (1, 2 ou 3): ");
+//		int cod = sc.nextInt();
+//
+//		String valorPorExtenso;
 
-		String valorPorExtenso;
-
-		switch (cod) {
-		case 1: {
-			valorPorExtenso = "Um";
-			break;
-		}
-		case 2: {
-			valorPorExtenso = "Dois";
-			break;
-		}
-		case 3: {
-			valorPorExtenso = "Três";
-			break;
-		}
-		default:
-			valorPorExtenso = "Código inválido";
-			break;
-		}
-
-		System.out.println(valorPorExtenso);
+//		switch (cod) {
+//		case 1: {
+//			valorPorExtenso = "Um";
+//			break;
+//		}
+//		case 2: {
+//			valorPorExtenso = "Dois";
+//			break;
+//		}
+//		case 3: {
+//			valorPorExtenso = "Três";
+//			break;
+//		}
+//		default:
+//			valorPorExtenso = "Código inválido";
+//			break;
+//		}
+//
+//		System.out.println(valorPorExtenso);
 
 		sc.close();
 	}
