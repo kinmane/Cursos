@@ -1,9 +1,12 @@
 using System;
 using System.Globalization;
 
-namespace Course {
-    class Program {
-        static void Main(string[] args) {
+namespace Course 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             
             int idade = 32;
             double saldo = 10.35784;

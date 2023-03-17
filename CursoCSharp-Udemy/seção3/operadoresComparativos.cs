@@ -1,8 +1,11 @@
 using System;
 
-namespace Course {
-    class Program {
-        static void Main(string[] args {
+namespace Course 
+{
+    class Program 
+    {
+        static void Main(string[] args 
+        {
             int a = 10;
             bool c1 = a < 10;
 

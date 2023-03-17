@@ -1,8 +1,11 @@
 using System;
 
-namespace Course {
-    class Program {
-        static void Main(string[] args) {
+namespace Course 
+{
+    class Program 
+    {
+        static void Main(string[] args) 
+        {
             // 0 até 255
             byte n1 = 126;
             Console.WriteLine(n1);
