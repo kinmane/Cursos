@@ -1,9 +1,12 @@
 using System;
 using System.Globalization;
 
-namespace Course {
-    class Program {
-        static void Main(string[] args) {
+namespace parte3 
+{
+    class ExerSaidaDeDados 
+    {
+        static void Main(string[] args) 
+        {
             
             string produto1 = "Computador";
             string produto2 = "Mesa de escritório";

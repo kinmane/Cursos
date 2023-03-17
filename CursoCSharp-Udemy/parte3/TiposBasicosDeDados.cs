@@ -1,8 +1,8 @@
 using System;
 
-namespace Course 
+namespace parte3 
 {
-    class Program 
+    class TiposBasicosDeDados 
     {
         static void Main(string[] args) 
         {

@@ -1,9 +1,9 @@
 using System;
 using System.Globalization;
 
-namespace Course
+namespace parte3
 {
-    class Program
+    class EntradaDeDados
     {
         static void Main(string[] args)
         {
