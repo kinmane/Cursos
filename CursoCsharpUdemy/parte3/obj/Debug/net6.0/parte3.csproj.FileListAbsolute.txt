@@ -1,0 +1,5 @@
+C:\Github\Cursos\CursoCsharpUdemy\parte3\obj\Debug\net6.0\parte3.csproj.AssemblyReference.cache
+C:\Github\Cursos\CursoCsharpUdemy\parte3\obj\Debug\net6.0\parte3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Cursos\CursoCsharpUdemy\parte3\obj\Debug\net6.0\parte3.AssemblyInfoInputs.cache
+C:\Github\Cursos\CursoCsharpUdemy\parte3\obj\Debug\net6.0\parte3.AssemblyInfo.cs
+C:\Github\Cursos\CursoCsharpUdemy\parte3\obj\Debug\net6.0\parte3.csproj.CoreCompileInputs.cache
