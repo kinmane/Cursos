@@ -11,8 +11,8 @@ namespace exer.udemy.EstruturaRepetitiva.While
         {
             Console.WriteLine("Informe as coordenadas: ");
             string[] values = Console.ReadLine().Split(' ');
-            int x = int.Parse(valores[0]);
-            int y = int.Parse(valores[1]);
+            int x = int.Parse(values[0]);
+            int y = int.Parse(values[1]);
 
             while (x != 0 && y != 0)
             {
@@ -31,8 +31,8 @@ namespace exer.udemy.EstruturaRepetitiva.While
                 }
 
                 values = Console.ReadLine().Split(' ');
-                x = int.Parse(valores[0]);
-                y = int.Parse(valores[1]);
+                x = int.Parse(values[0]);
+                y = int.Parse(values[1]);
             }
         }
     }
