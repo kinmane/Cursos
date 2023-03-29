@@ -14,13 +14,15 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            int qtyMin, qtyMax, stock;
+            
             Console.WriteLine("Informe a quantidade mínima de peça: ");
-            int qtyMin = int.Parse(Console.ReadLine());
+            qtyMin = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Informe a quantidade máxima de peça: ");
-            int qtyMax = int.Parse(Console.ReadLine());
+            qtyMax = int.Parse(Console.ReadLine());
 
-            int stock = (qtyMax + qtyMin) / 2;
+            stock = (qtyMax + qtyMin) / 2;
             Console.WriteLine("Estoque médio: " + stock);
         }
     }

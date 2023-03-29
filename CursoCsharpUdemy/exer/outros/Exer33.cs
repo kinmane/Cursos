@@ -15,24 +15,24 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            int count = 0;
-            double total = 0;
+            double grade, media, total = 0;
+            int enrollment, count = 0;
 
             Console.WriteLine("Digite a matrícula e a nota de cada aluno: ");
             while (true) {
                 Console.Write("Matrícula (ou 0 para encerrar): ");
-                int enrollment = int.Parse(Console.ReadLine());
+                enrollment = int.Parse(Console.ReadLine());
                 if (enrollment ==0) break;
 
                 Console.WriteLine("Digite a nota da prova: ");
-                double grade = double.Parse(Console.ReadLine());
+                grade = double.Parse(Console.ReadLine());
 
                 count++;
                 total += grade;
             }
 
             if (count == 0) {
-                double media = total / count;
+                media = total / count;
                 Console.WriteLine($"Médiada turma: {media.ToString("F2")}");
             }
             else

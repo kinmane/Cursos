@@ -13,13 +13,19 @@ namespace exer.outros
 {
     public class Exer21
     {
-        static void Main(string[] args) {
-        Console.WriteLine("Informe um número inteiro: ");
-            int number = int.Parse(Console.ReadLine());
+        static void Main(string[] args)
+        {
+            int number;
 
-            if (number >= 0) {
+            Console.WriteLine("Informe um número inteiro: ");
+            number = int.Parse(Console.ReadLine());
+
+            if (number >= 0)
+            {
                 Console.WriteLine("Número positivo");
-            } else {
+            }
+            else
+            {
                 Console.WriteLine("Número negativo");
             }
         }

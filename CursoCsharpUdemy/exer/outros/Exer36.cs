@@ -14,13 +14,12 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            int sum = 0;
-            int min = int.MaxValue;
-            int max = int.MinValue;
+            double average;
+            int number, sum = 0, min = int.MaxValue, max = int.MinValue;
 
             for (int i = 1; i <= 10; i++) {
                 Console.Write("Informe um número inteiro #" + i + ": ");
-                int number = int.Parse(Console.ReadLine());
+                number = int.Parse(Console.ReadLine());
 
                 while (number <= 0) {
                     Console.WriteLine("O número deve ser positivo! Tente novamente.");
@@ -37,7 +36,7 @@ namespace exer.outros
                 sum += number;
             }
 
-            double average = (double) sum / 10;
+            average = (double) sum / 10;
 
             Console.WriteLine("Valor minimo: " + min);
             Console.WriteLine("Valor maximo: " + max);

@@ -18,7 +18,7 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            int option = 0;
+            int option = 0, number1, number2;
             double result = 0;
 
             do
@@ -32,10 +32,10 @@ namespace exer.outros
                 option = int.Parse(Console.ReadLine());
 
                 Console.Write("\nInforme o primeiro valor:");
-                int number1 = int.Parse(Console.ReadLine());
+                number1 = int.Parse(Console.ReadLine());
 
                 Console.Write("Informe o segundo valor:");
-                int number2 = int.Parse(Console.ReadLine());
+                number2 = int.Parse(Console.ReadLine());
 
                 switch (option)
                 {

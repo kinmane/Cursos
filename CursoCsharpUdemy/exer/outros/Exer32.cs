@@ -15,11 +15,13 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe o número inteiro, menor que 10 e maior que 0: ");
-            int num = int.Parse(Console.ReadLine());
+            int sumSquare = 0, countOdd = 0, num;
 
-            int sumSquare = 0;
-            int countOdd = 0;
+            Console.WriteLine("Informe o número inteiro, menor que 10 e maior que 0: ");
+            num = int.Parse(Console.ReadLine());
+
+            sumSquare = 0;
+            countOdd = 0;
 
             for (int i = num; countOdd < 20; i++)
             {

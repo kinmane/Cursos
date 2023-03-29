@@ -17,13 +17,15 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            double dollar, salaryDollar, salaryReal;
+
             Console.WriteLine("Informe a cotação do dolar atual: ");
-            double dollar = double.Parse(Console.ReadLine());
+            dollar = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Informe seu sálario em dolar: ");
-            double salaryDollar = double.Parse(Console.ReadLine());
+            salaryDollar = double.Parse(Console.ReadLine());
 
-            double salaryReal = salaryDollar * dollar;
+            salaryReal = salaryDollar * dollar;
 
             Console.Write("Seu sálario em real será: " + salaryReal.ToString("F2"));
         }

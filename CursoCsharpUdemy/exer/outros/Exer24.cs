@@ -18,11 +18,12 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            int opcao, num1, num2;
             Console.Write("Digite o primeiro número: ");
-            int num1 = int.Parse(Console.ReadLine());
+            num1 = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o segundo número: ");
-            int num2 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
 
             do {
             Console.WriteLine("\nEscolha uma opção:");
@@ -32,7 +33,7 @@ namespace exer.outros
             Console.WriteLine("4 - Sair");
             Console.Write("Opção escolhida: ");
 
-            int opcao = int.Parse(Console.ReadLine());
+            opcao = int.Parse(Console.ReadLine());
 
             switch (opcao) {
                 case 1:

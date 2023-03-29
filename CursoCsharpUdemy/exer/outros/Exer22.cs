@@ -13,11 +13,10 @@ namespace exer.outros
     public class Exer22
     {
         static void Main(string[] args) {
-            Console.WriteLine("Informe um número: ");
-            int number = int.Parse(Console.ReadLine());
+            int a = 0, b = 0, number;
 
-            int a = 0;
-            int b = 0;
+            Console.WriteLine("Informe um número: ");
+            number = int.Parse(Console.ReadLine());
 
             if (number >= 0) {
                 a = number;

@@ -16,13 +16,12 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            int min = Integer.MaxValue;
-            int max = Integer.MinValue;
+            int num, min = Integer.MaxValue, max = Integer.MinValue;
 
             while (true)
             {
                 Console.Write("Digite um número positivo (negativo para encerrar): ");
-                int num = int.Parse(Console.ReadLine());
+                num = int.Parse(Console.ReadLine());
 
                 if (number < 0) break;
 

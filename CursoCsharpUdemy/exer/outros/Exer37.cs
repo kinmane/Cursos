@@ -9,6 +9,7 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            double num1, num2, resultado;
             int operation = 0;
 
             do
@@ -26,12 +27,12 @@ namespace exer.outros
                 {
                     case 1:
                         Console.Write("Digite o primeiro número: ");
-                        double num1 = double.Parse(Console.ReadLine());
+                        num1 = double.Parse(Console.ReadLine());
 
                         Console.Write("Digite o segundo número: ");
-                        double num2 = double.Parse(Console.ReadLine());
+                        num2 = double.Parse(Console.ReadLine());
 
-                        double resultado = num1 + num2;
+                        resultado = num1 + num2;
 
                         Console.WriteLine("Resultado: " + resultado);
                         break;

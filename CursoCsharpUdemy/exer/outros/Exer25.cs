@@ -17,13 +17,15 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            string sexo;
+            double altura, pesoIdeal;
+
             Console.Write("Digite a altura da pessoa (em metros): ");
-            doublealtura = double.Parse(Console.ReadLine());
+            altura = double.Parse(Console.ReadLine());
 
             Console.Write("Digite o sexo da pessoa (M ou F): ");
-            string sexo = Console.ReadLine().ToUpper();
+            sexo = Console.ReadLine().ToUpper();
 
-            double pesoIdeal;
             if (sexo == "M")
             {
                 pesoIdeal = (72.7 * altura) - 58;

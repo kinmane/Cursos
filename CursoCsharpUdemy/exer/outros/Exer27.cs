@@ -16,14 +16,17 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            int qty, number;
+            long factorial;
+
             Console.WriteLine("Escreva a quantidade de números que deverá processar: ");
-            int qty = int.Parse(Console.ReadLine());
+            qty = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= qty; i++)
             {
                 Console.WriteLine("Digite o {0}º número: ", i);
-                int number = int.Parse(Console.ReadLine());
-                long factorial = 1;
+                number = int.Parse(Console.ReadLine());
+                factorial = 1;
 
                 for (int j = 1; j <= number; j++) {
                     factorial *= j;

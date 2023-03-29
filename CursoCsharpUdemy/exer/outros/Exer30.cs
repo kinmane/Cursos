@@ -13,8 +13,10 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            int num;
+
             Console.WriteLine("Informe o número que quer saber a tabuada: ");
-            int num = int.Parse(Console.ReadLine());
+            num = int.Parse(Console.ReadLine());
 
             for (int i = 0; i <= 10; i++)
             {

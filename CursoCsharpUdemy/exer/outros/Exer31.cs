@@ -17,13 +17,12 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
-            int sumEven = 0;
-            int sumOdd = 0;
+            int num, sumEven = 0, sumOdd = 0;
 
             while (true)
             {
                 Console.WriteLine("Informe um número positivo (ou um número negativo para encerrar): ");
-                int num = int.Parse(Console.ReadLine());
+                num = int.Parse(Console.ReadLine());
 
                 if (number < 0) break;
 

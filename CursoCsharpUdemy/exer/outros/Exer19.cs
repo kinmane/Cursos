@@ -17,13 +17,15 @@ namespace exer.outros
     {
         static void Main(string[] args)
         {
+            double a, b, c;
+
             Console.WriteLine("Digite os valores dos lados do triângulo:");
             Console.Write("Lado A: ");
-            double a = double.Parse(Console.ReadLine());
+            a = double.Parse(Console.ReadLine());
             Console.Write("Lado B: ");
-            double b = double.Parse(Console.ReadLine());
+            b = double.Parse(Console.ReadLine());
             Console.Write("Lado C: ");
-            double c = double.Parse(Console.ReadLine());
+            c = double.Parse(Console.ReadLine());
 
             if ((a < b + c) && (b < a + c) && (c < a + b)) {
                 if (a == b && b == c) {
