@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using ExemploClassTriangulo;
 
-namespace parte4
+namespace parte4.exemploTriagulo
 {
-    public class ExemploComOO
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -21,16 +21,14 @@ namespace parte4
             x.B = double.Parse(Console.ReadLine());
             x.C = double.Parse(Console.ReadLine());
 
-            p = (x.A + x.B + x.C) / 2;
-            areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            areaX = x.Area();
 
             Console.WriteLine("Entre com as medidas do triângulo Y: ");
             y.A = double.Parse(Console.ReadLine());
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
             
-            p = (y.A + y.B + y.C) / 2;
-            areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            areaY = y.Area();
 
             Console.WriteLine("Área do triângulo X: " + areaX.ToString("F3"));
             Console.WriteLine("Área do triângulo Y: " + areaY.ToString("F3"));

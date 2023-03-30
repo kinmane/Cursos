@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace parte4
+namespace parte4.exemploTriagulo
 {
     public class ExemploSemOO
     {
