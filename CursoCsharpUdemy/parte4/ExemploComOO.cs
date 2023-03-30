@@ -17,20 +17,20 @@ namespace parte4
             double areaX, areaY;
 
             Console.WriteLine("Entre com as medidas do triângulo X: ");
-            x.a = double.Parse(Console.ReadLine());
-            x.b = double.Parse(Console.ReadLine());
-            x.c = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine());
 
-            p = (x.a + x.b + x.c) / 2;
-            areaX = Math.Sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
+            p = (x.A + x.B + x.C) / 2;
+            areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
             Console.WriteLine("Entre com as medidas do triângulo Y: ");
-            y.a = double.Parse(Console.ReadLine());
-            y.b = double.Parse(Console.ReadLine());
-            y.c = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine());
             
-            p = (y.a + y.b + y.c) / 2;
-            areaY = Math.Sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+            p = (y.A + y.B + y.C) / 2;
+            areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
             Console.WriteLine("Área do triângulo X: " + areaX.ToString("F3"));
             Console.WriteLine("Área do triângulo Y: " + areaY.ToString("F3"));

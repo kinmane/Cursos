@@ -7,6 +7,6 @@ namespace parte4
 {
     public class ExemploClassTriangulo
     {
-        public double a, b, c;
+        public double A, B, C;
     }
 }
