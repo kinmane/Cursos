@@ -20,14 +20,14 @@ namespace parte4.exemploProduto
         {
             Qty += qty;
             Console.WriteLine("Quantidade adicionada");
-            Console.WriteLine("Quantidade atual: " + Qty);
+            Console.WriteLine("Quantidade nova: " + Qty);
         }
 
         public void RemoveQty(int qty)
         {
             Qty -= qty;
             Console.WriteLine("Quantidade removida");
-            Console.WriteLine("Quantidade atual: " + Qty);
+            Console.WriteLine("Quantidade nova: " + Qty);
         }
     }
 }
