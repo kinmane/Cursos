@@ -1,43 +1,19 @@
 """
-Ler quatro valores numéricos inteiros e apresentar o resultado dois a dois da adição e multiplicação entre os 
-valores lidos, baseando-se na utilização do conceito de propriedade distributiva. Dica: se forem lidas as variáveis 
-A, B, C e D, devem ser somados e multiplicados os valores de A com B, A com C e A com D; depois B com C, B 
-com D e por último C com D. Note que para cada operação serão utilizadas seis combinações. Assim sendo, 
-devem ser realizadas doze operações de processamento, sendo seis para as adições e seis para as 
-multiplicações.
+3) Faça um programa para pagamento de comissão de vendedores de peças, 
+levando-se em consideração que sua 
+comissão será de 5% do total da venda e que você tem os seguintes dados: 
+- Identificação do vendedor 
+- Código da peça 
+- Preço unitário da peça 
+- Quantidade vendida 
 """
 
-a = int(input("Informe o valor de A: "))
-b = int(input("Informe o valor de B: "))
-c = int(input("Informe o valor de C: "))
-d = int(input("Informe o valor de D: "))
+id = int(input("Identificação do vendedor: "))
+cod = int(input("Código da peça: "))
+price = float(input("Preço unitário da peça: "))
+qty_sold = int(input("Quantidade vendida: "))
 
-ab_sum = a + b
-ac_sum = a + c
-ad_sum = a + d
-bc_sum = b + c
-bd_sum = b + d
-cd_sum = c + d
+commission = (qty_sold * price) * 0.05
 
-ab_mult = a * b
-ac_mult = a * c
-ad_mult = a * d
-bc_mult = b * c
-bd_mult = b * d
-cd_mult = c * d
-
-print("Resultados da soma:")
-print("A + B =", ab_sum)
-print("A + C =", ac_sum)
-print("A + D =", ad_sum)
-print("B + C =", bc_sum)
-print("B + D =", bd_sum)
-print("C + D =", cd_sum)
-
-print("Resultados da multiplicação:")
-print("A * B =", ab_mult)
-print("A * C =", ac_mult)
-print("A * D =", ad_mult)
-print("B * C =", bc_mult)
-print("B * D =", bd_mult)
-print("C * D =", cd_mult)
+print(f"Total vendido: R$ {qty_sold * price:.2f}")
+print(f"Comissão do vendedor {id} é: {commission}")
