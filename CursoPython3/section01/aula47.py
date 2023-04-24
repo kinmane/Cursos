@@ -45,5 +45,4 @@ while True:
         print('VOCÊ GANHOU!! PARABÉNS!')
         print('A palavra era', palavra_secreta)
         print('Tentativas:', numero_tentativas)
-        letras_acertadas = ''
-        numero_tentativas = 0
+        break
