@@ -8,19 +8,17 @@ package Outros.ListaAlgoritimo.Algoritimo;
 
 import java.util.Scanner;
 
-public class Exer1 {
+public class Exer01 {
     public static void main(String[] args) {
-        double width, length, area;
-
+        double height, length, area;
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite a largura do terreno: ");
-        width = sc.nextDouble();
-
+        height = sc.nextDouble();
         System.out.println("Digite o comprimento do terreno: ");
         length = sc.nextDouble();
 
-        area = width * length;
+        area = height * length;
 
         System.out.println("A área do terreno é: " + area);
 
