@@ -26,7 +26,7 @@ public class Exer15 {
 
         System.out.println("Carlos deve pagar: " + carlos);
         System.out.println("André deve pagar: " + andre);
-        System.out.println(String.format("Felipe deve pagar: " + felipe "%.2f");
+        System.out.printf("Felipe deve pagar: %.2f", felipe);
 
         sc.close();
     }
