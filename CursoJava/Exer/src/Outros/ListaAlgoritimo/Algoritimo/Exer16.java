@@ -11,5 +11,25 @@ presunto e carne necessários para compra.
 
 package Outros.ListaAlgoritimo.Algoritimo;
 
+import java.util.Scanner;
+
 public class Exer16 {
+    public static void main(String[] args) {
+        double cheese, ham, meat;
+        int sandwich;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Digite a quantidade de sanduíches a fazer: ");
+        sandwich = sc.nextInt();
+
+        cheese = sandwich * 2 * 0.05;
+        ham = sandwich * 0.05;
+        meat =sandwich * 0.1;
+
+        System.out.println("Quantidade de queijo: " + cheese + "kg");
+        System.out.println("Quantidade de presunto: " + ham + "kg");
+        System.out.println("Quantidade de carne: " + meat + "kg");
+
+        sc.close();
+    }
 }
