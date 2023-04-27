@@ -2,7 +2,7 @@
 25. Calcule o volume de uma caixa d'água cilíndrica.
  */
 
-package Outros.ListaAlgoritimo;
+package Outros.ListaAlgoritimo.Algoritimo;
 
 import java.util.Scanner;
 
