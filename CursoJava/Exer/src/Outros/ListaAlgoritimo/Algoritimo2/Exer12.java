@@ -19,5 +19,29 @@ Média de aproveitamento Conceito
 
 package Outros.ListaAlgoritimo.Algoritimo2;
 
+import java.util.Scanner;
+
 public class Exer12 {
+    public static void main(String[] args) {
+        double grade1, grade2, grade3, exercises, average;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite o número de identificação: ");
+        int id = sc.nextInt();
+        System.out.println("Digite as 3 notas obtidas por um aluno nas 3 verificações: ");
+        grade1 = sc.nextDouble();
+        grade2 = sc.nextDouble();
+        grade3 = sc.nextDouble();
+        System.out.print("Digite a média dos exercícios que fazem parte da avaliação: ");
+        exercises = sc.nextDouble();
+
+        average = (grade1 + grade2 * 2 + grade3 * 3 + exercises) / 7;
+
+        System.out.println("Número do aluno: " + id);
+        System.out.println("Notas: " + grade1 + ", " + grade2 + ", " + grade3);
+        System.out.println("Média dos exercícios: " + exercises);
+        System.out.printf("Média de aproveitamento: %.2f\n", average);
+
+        sc.close();
+    }
 }
