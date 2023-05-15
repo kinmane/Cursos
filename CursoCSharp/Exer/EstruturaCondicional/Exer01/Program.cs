@@ -1,6 +1,6 @@
 ﻿namespace Exer01;
 
-public class Exer01
+public class Program
 {
     static void Main(string[] args)
     {
