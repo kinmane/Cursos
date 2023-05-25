@@ -1,15 +1,15 @@
-﻿namespace Exer01
+﻿namespace Exer02
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            double pi = 3.14159;
+            double pi = 3.14159, radius, area;
 
             Console.Write("Informe o valor do raio do círculo: ");
-            double radius = double.Parse(Console.ReadLine());
+            radius = double.Parse(Console.ReadLine());
 
-            double area = pi * (radius * radius);
+            area = pi * (radius * radius);
 
             Console.WriteLine($"Resultado: {area}");
         }
