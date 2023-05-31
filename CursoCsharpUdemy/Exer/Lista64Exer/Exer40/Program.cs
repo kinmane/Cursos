@@ -16,10 +16,12 @@ namespace Exer40
         {
             double indice;
             char resposta;
+            
             do
             {
                 System.Console.Write("Digite o índice de poluição medido: ");
                 indice = double.Parse(System.Console.ReadLine());
+                
                 if (indice >= 0.05 && indice <= 0.25)
                 {
                     System.Console.WriteLine("Índice de poluição aceitável");
@@ -38,6 +40,7 @@ namespace Exer40
                 }
                 System.Console.Write("Deseja encerrar o programa? (S/N) ");
                 resposta = char.Parse(System.Console.ReadLine());
+                
             } while (resposta == 'N' || resposta == 'n');
         }
     }

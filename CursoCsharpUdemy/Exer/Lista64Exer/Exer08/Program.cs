@@ -10,12 +10,14 @@ namespace Exer08
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite o raio da lata de óleo: ");
-            double radius = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite a altura da lata de óleo: ");
-            double height = double.Parse(Console.ReadLine());
+            double volume, radius, height;
             
-            double volume = 3.14159 * radius * radius * height;
+            Console.WriteLine("Digite o raio da lata de óleo: ");
+            radius = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a altura da lata de óleo: ");
+            height = double.Parse(Console.ReadLine());
+            
+            volume = 3.14159 * radius * radius * height;
             
             Console.WriteLine("O volume da lata de óleo é: " + volume);
         }

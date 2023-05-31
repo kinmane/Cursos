@@ -9,12 +9,15 @@ namespace Exer01
     {
         static void Main(string[] args)
         {
+            int qtyMin, qtyMax;
+            double avarege;
+            
             Console.WriteLine("Digite a quantidade mínima: ");
-            int qtyMin = int.Parse(Console.ReadLine());
+            qtyMin = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite a quantidade máxima: ");
-            int qtyMax = int.Parse(Console.ReadLine());
+            qtyMax = int.Parse(Console.ReadLine());
 
-            double avarege = (qtyMin + qtyMax) / 2;
+            avarege = (qtyMin + qtyMax) / 2;
 
             Console.WriteLine("O estoque médio é: " + avarege);
         }

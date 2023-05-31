@@ -21,6 +21,7 @@ namespace Exer37
             int opcao;
             double num1, num2, resultado;
             char resposta;
+            
             do
             {
                 System.Console.WriteLine("1 – Adição");
@@ -29,10 +30,13 @@ namespace Exer37
                 System.Console.WriteLine("4 – Divisão");
                 System.Console.Write("Informe a opção: ");
                 opcao = int.Parse(System.Console.ReadLine());
+                
                 System.Console.Write("Digite o primeiro número: ");
                 num1 = double.Parse(System.Console.ReadLine());
+                
                 System.Console.Write("Digite o segundo número: ");
                 num2 = double.Parse(System.Console.ReadLine());
+                
                 switch (opcao)
                 {
                     case 1:
@@ -55,8 +59,10 @@ namespace Exer37
                         System.Console.WriteLine("Opção inválida!");
                         break;
                 }
+                
                 System.Console.Write("Deseja voltar ao menu principal? (S/N) ");
                 resposta = char.Parse(System.Console.ReadLine());
+                
             } while (resposta == 'S' || resposta == 's');
         }
     }

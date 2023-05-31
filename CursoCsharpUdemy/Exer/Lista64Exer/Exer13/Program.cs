@@ -8,12 +8,14 @@ namespace Exer13
     {
         static void Main(string[] args)
         {
+            int firstNumber, secondNumber, thirdNumber;
+            
             Console.WriteLine("Digite o primeiro número: ");
-            int firstNumber = int.Parse(Console.ReadLine());
+            firstNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo número: ");
-            int secondNumber = int.Parse(Console.ReadLine());
+            secondNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o terceiro número: ");
-            int thirdNumber = int.Parse(Console.ReadLine());
+            thirdNumber = int.Parse(Console.ReadLine());
 
             if (firstNumber > secondNumber && firstNumber > thirdNumber)
             {

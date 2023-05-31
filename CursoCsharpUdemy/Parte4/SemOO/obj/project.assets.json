@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\Parte4\\Parte4.csproj",
-      "projectName": "Parte4",
-      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\Parte4\\Parte4.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\SemOO\\SemOO.csproj",
+      "projectName": "SemOO",
+      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\SemOO\\SemOO.csproj",
       "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\Parte4\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\SemOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\NuGet\\NuGet.Config"

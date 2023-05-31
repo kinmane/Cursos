@@ -9,12 +9,14 @@ namespace Exer11
     {
         static void Main(string[] args)
         {
+            int firstNumber, secondNumber, aux;
+            
             Console.WriteLine("Digite o primeiro número: ");
-            int firstNumber = int.Parse(Console.ReadLine());
+            firstNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo número: ");
-            int secondNumber = int.Parse(Console.ReadLine());
+            secondNumber = int.Parse(Console.ReadLine());
 
-            int aux = firstNumber;
+            aux = firstNumber;
             firstNumber = secondNumber;
             secondNumber = aux;
 

@@ -8,10 +8,12 @@ namespace Exer14
     {
         static void Main(string[] args)
         {
+            int firstNumber, secondNumber;
+            
             Console.WriteLine("Digite o primeiro número: ");
-            int firstNumber = int.Parse(Console.ReadLine());
+            firstNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo número: ");
-            int secondNumber = int.Parse(Console.ReadLine());
+            secondNumber = int.Parse(Console.ReadLine());
 
             if (firstNumber > secondNumber)
             {

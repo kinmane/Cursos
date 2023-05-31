@@ -10,10 +10,12 @@ namespace Exer06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a temperatura em graus Celsius: ");
-            double celsius = double.Parse(Console.ReadLine());
+            double celsius, fahrenheit;
             
-            double fahrenheit = (9 * celsius + 160) / 5;
+            Console.WriteLine("Digite a temperatura em graus Celsius: ");
+            celsius = double.Parse(Console.ReadLine());
+            
+            fahrenheit = (9 * celsius + 160) / 5;
             
             Console.WriteLine("A temperatura em graus Fahrenheit é: " + fahrenheit);
         }

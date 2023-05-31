@@ -9,9 +9,8 @@ namespace Exer42
     {
         static void Main(string[] args)
         {
-            int n, maior, menor;
-            maior = 0;
-            menor = 0;
+            int n, maior = 0, menor = 0;
+            
             do
             {
                 System.Console.Write("Digite um número: ");
@@ -25,6 +24,7 @@ namespace Exer42
                     menor = n;
                 }
             } while (n != 0);
+            
             System.Console.WriteLine($"Maior: {maior}");
             System.Console.WriteLine($"Menor: {menor}");
         }

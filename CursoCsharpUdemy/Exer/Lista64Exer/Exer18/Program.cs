@@ -12,8 +12,10 @@ namespace Exer18
     {
         static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Digite um número: ");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
 
             switch (number)
             {

@@ -10,8 +10,10 @@ public class Program
     private static void Main(string[] args)
     {
         int num, soma = 0;
+        
         Console.Write("Digite um número: ");
         num = int.Parse(Console.ReadLine());
+        
         if (num > 0 && num < 10)
         {
             for (var i = 0; i < 20; i++)

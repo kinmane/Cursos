@@ -13,13 +13,14 @@ namespace Exer43
     {
         static void Main(string[] args)
         {
-            int i, j, soma;
-            soma = 0;
+            int i, j, soma = 0;
+
             for (i = 0; i < 8; i++)
             {
                 for (j = 0; j < 8; j++)
                     soma += 1;
             }
+            
             System.Console.WriteLine($"Total de grãos: {soma}");
         }
     }

@@ -11,10 +11,12 @@ namespace Exer34
         static void Main(string[] args)
         {
             int num, maior = 0, menor = 0;
+            
             do
             {
                 System.Console.Write("Digite um número: ");
                 num = int.Parse(System.Console.ReadLine());
+                
                 if (num > 0)
                 {
                     if (maior == 0 && menor == 0)
@@ -35,6 +37,7 @@ namespace Exer34
                     }
                 }
             } while (num > 0);
+            
             System.Console.WriteLine($"Maior número: {maior}");
             System.Console.WriteLine($"Menor número: {menor}");
         }

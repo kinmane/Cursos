@@ -13,17 +13,20 @@ namespace Exer03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a identificação do vendedor: ");
-            int sellerId = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o código da peça: ");
-            int pieceCode = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o preço unitário da peça: ");
-            double piecePrice = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite a quantidade vendida: ");
-            int qtySold = int.Parse(Console.ReadLine());
+            int sellerId, pieceCode, qtySold;
+            double piecePrice, totalValue, commission;
             
-            double totalValue = qtySold * piecePrice;
-            double commission = totalValue * 0.05;
+            Console.WriteLine("Digite a identificação do vendedor: ");
+            sellerId = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o código da peça: ");
+            pieceCode = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o preço unitário da peça: ");
+            piecePrice = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a quantidade vendida: ");
+            qtySold = int.Parse(Console.ReadLine());
+            
+            totalValue = qtySold * piecePrice;
+            commission = totalValue * 0.05;
             
             Console.WriteLine("O valor total é: " + totalValue);
             Console.WriteLine("A comissão é: " + commission);

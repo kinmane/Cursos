@@ -13,25 +13,30 @@ namespace Exer04
     {
         static void Main(string[] args)
         {
+
+            int a, b, c, d;
+            int sumResult1, sumResult2, sumResult3, sumResult4, sumResult5, sumResult6;
+            int multiplicationResult1, multiplicationResult2, multiplicationResult3, multiplicationResult4, multiplicationResult5, multiplicationResult6;
+
             Console.WriteLine("Digite quatro valores numéricos inteiros:");
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
-            int d = int.Parse(Console.ReadLine());
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
+            c = int.Parse(Console.ReadLine());
+            d = int.Parse(Console.ReadLine());
 
-            int sumResult1 = a + b;
-            int sumResult2 = a + c;
-            int sumResult3 = a + d;
-            int sumResult4 = b + c;
-            int sumResult5 = b + d;
-            int sumResult6 = c + d;
+            sumResult1 = a + b;
+            sumResult2 = a + c;
+            sumResult3 = a + d;
+            sumResult4 = b + c;
+            sumResult5 = b + d;
+            sumResult6 = c + d;
 
-            int multiplicationResult1 = a * b;
-            int multiplicationResult2 = a * c;
-            int multiplicationResult3 = a * d;
-            int multiplicationResult4 = b * c;
-            int multiplicationResult5 = b * d;
-            int multiplicationResult6 = c * d;
+            multiplicationResult1 = a * b;
+            multiplicationResult2 = a * c;
+            multiplicationResult3 = a * d;
+            multiplicationResult4 = b * c;
+            multiplicationResult5 = b * d;
+            multiplicationResult6 = c * d;
 
             Console.WriteLine("Resultados das adições:");
             Console.WriteLine("{0} + {1} = {2}", a, b, sumResult1);

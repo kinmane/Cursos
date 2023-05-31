@@ -11,19 +11,24 @@ namespace Exer33
         {
             int matricula, qtdAlunos = 0;
             double nota, somaNotas = 0, media;
+            
             do
             {
                 System.Console.Write("Digite a matrícula do aluno: ");
                 matricula = int.Parse(System.Console.ReadLine());
+                
                 if (matricula > 0)
                 {
                     System.Console.Write("Digite a nota do aluno: ");
                     nota = double.Parse(System.Console.ReadLine());
+                    
                     somaNotas += nota;
                     qtdAlunos++;
                 }
             } while (matricula > 0);
+            
             media = somaNotas / qtdAlunos;
+            
             System.Console.WriteLine($"Média da turma: {media}");
         }
     }

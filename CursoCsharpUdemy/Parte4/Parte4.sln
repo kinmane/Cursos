@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parte4", "Parte4\Parte4.csproj", "{4953AE15-F55E-4388-95C2-5B57FA8FF471}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemOO", "SemOO\SemOO.csproj", "{4953AE15-F55E-4388-95C2-5B57FA8FF471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

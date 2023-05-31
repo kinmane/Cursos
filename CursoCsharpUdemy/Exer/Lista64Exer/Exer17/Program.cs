@@ -10,8 +10,10 @@ namespace Exer17
     {
         static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Digite um número: ");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
 
             if (number >= 0 && number <= 9)
             {

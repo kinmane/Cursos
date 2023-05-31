@@ -12,12 +12,14 @@ namespace Exer02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a cotação do dólar: ");
-            double dolarQuote = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o valor em dólares: ");
-            double dolarValue = double.Parse(Console.ReadLine());
+            double dolarQuote, dolarValue, realValue;
             
-            double realValue = dolarValue * dolarQuote;
+            Console.WriteLine("Digite a cotação do dólar: ");
+            dolarQuote = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o valor em dólares: ");
+            dolarValue = double.Parse(Console.ReadLine());
+            
+            realValue = dolarValue * dolarQuote;
             
             Console.WriteLine("O valor em reais é: " + realValue);
         }

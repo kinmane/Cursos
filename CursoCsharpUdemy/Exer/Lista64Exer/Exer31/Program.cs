@@ -12,6 +12,7 @@ namespace Exer31
         static void Main(string[] args)
         {
             int num, somaPar = 0, somaImpar = 0;
+            
             do
             {
                 System.Console.Write("Digite um número: ");

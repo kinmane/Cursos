@@ -16,28 +16,34 @@ namespace Exer38
             int C, N, E;
             double salario, salarioExcedente;
             char resposta;
+            
             do
             {
                 System.Console.Write("Digite o código do operário: ");
                 C = int.Parse(System.Console.ReadLine());
+                
                 System.Console.Write("Digite o número de horas trabalhadas: ");
                 N = int.Parse(System.Console.ReadLine());
+                
                 if (N > 50)
                 {
                     E = N - 50;
                     salario = 50 * 10;
                     salarioExcedente = E * 20;
+                    
                     System.Console.WriteLine($"Salário total: {salario + salarioExcedente}");
                     System.Console.WriteLine($"Salário excedente: {salarioExcedente}");
                 }
                 else
                 {
                     salario = N * 10;
+                    
                     System.Console.WriteLine($"Salário total: {salario}");
                     System.Console.WriteLine($"Salário excedente: 0");
                 }
                 System.Console.Write("Deseja encerrar o programa? (S/N) ");
                 resposta = char.Parse(System.Console.ReadLine());
+                
             } while (resposta == 'N' || resposta == 'n');
         }
     }

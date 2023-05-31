@@ -11,6 +11,7 @@ namespace Exer35
             for (int i = 1; i <= 100; i++)
             {
                 System.Console.WriteLine(i);
+                
                 if (i % 10 == 0)
                 {
                     System.Console.WriteLine("Múltiplo de 10");

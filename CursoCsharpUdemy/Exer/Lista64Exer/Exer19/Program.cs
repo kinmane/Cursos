@@ -13,12 +13,14 @@ namespace Exer19
     {
         static void Main(string[] args)
         {
+            int firstSide, secondSide, thirdSide;
+            
             Console.WriteLine("Digite o primeiro lado do triângulo: ");
-            int firstSide = int.Parse(Console.ReadLine());
+            firstSide = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo lado do triângulo: ");
-            int secondSide = int.Parse(Console.ReadLine());
+            secondSide = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o terceiro lado do triângulo: ");
-            int thirdSide = int.Parse(Console.ReadLine());
+            thirdSide = int.Parse(Console.ReadLine());
 
             if (firstSide < (secondSide + thirdSide) && secondSide < (firstSide + thirdSide) && thirdSide < (firstSide + secondSide))
             {

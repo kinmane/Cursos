@@ -13,10 +13,12 @@ namespace Exer39
         {
             int numero;
             char resposta;
+            
             do
             {
                 System.Console.Write("Digite um número inteiro: ");
                 numero = int.Parse(System.Console.ReadLine());
+                
                 if (numero % 2 == 0)
                 {
                     System.Console.WriteLine("O número é par");
@@ -35,6 +37,7 @@ namespace Exer39
                 }
                 System.Console.Write("Deseja encerrar o programa? (S/N) ");
                 resposta = char.Parse(System.Console.ReadLine());
+                
             } while (resposta == 'N' || resposta == 'n');
         }
     }

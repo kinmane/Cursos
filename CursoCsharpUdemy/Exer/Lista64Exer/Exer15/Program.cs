@@ -13,16 +13,18 @@ namespace Exer15
     {
         static void Main(string[] args)
         {
+            double firstGrade, secondGrade, thirdGrade, fourthGrade, average, recoveryGrade, newAverage;
+            
             Console.WriteLine("Digite a primeira nota: ");
-            double firstGrade = double.Parse(Console.ReadLine());
+            firstGrade = double.Parse(Console.ReadLine());
             Console.WriteLine("Digite a segunda nota: ");
-            double secondGrade = double.Parse(Console.ReadLine());
+            secondGrade = double.Parse(Console.ReadLine());
             Console.WriteLine("Digite a terceira nota: ");
-            double thirdGrade = double.Parse(Console.ReadLine());
+            thirdGrade = double.Parse(Console.ReadLine());
             Console.WriteLine("Digite a quarta nota: ");
-            double fourthGrade = double.Parse(Console.ReadLine());
+            fourthGrade = double.Parse(Console.ReadLine());
 
-            double average = (firstGrade + secondGrade + thirdGrade + fourthGrade) / 4;
+            average = (firstGrade + secondGrade + thirdGrade + fourthGrade) / 4;
 
             if (average >= 7)
             {
@@ -31,9 +33,9 @@ namespace Exer15
             else
             {
                 Console.WriteLine("Digite a nota da recuperação: ");
-                double recoveryGrade = double.Parse(Console.ReadLine());
+                recoveryGrade = double.Parse(Console.ReadLine());
 
-                double newAverage = (average + recoveryGrade) / 2;
+                newAverage = (average + recoveryGrade) / 2;
 
                 if (newAverage >= 7)
                 {

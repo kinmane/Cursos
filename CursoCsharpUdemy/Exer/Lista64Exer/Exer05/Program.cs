@@ -13,13 +13,15 @@ namespace Exer05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite o tempo gasto na viagem: ");
-            double timeSpent = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite a velocidade média: ");
-            double averageSpeed = double.Parse(Console.ReadLine());
+            double timeSpent, averageSpeed, distance, fuelUsed;
             
-            double distance = timeSpent * averageSpeed;
-            double fuelUsed = distance / 12;
+            Console.WriteLine("Digite o tempo gasto na viagem: ");
+            timeSpent = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite a velocidade média: ");
+            averageSpeed = double.Parse(Console.ReadLine());
+            
+            distance = timeSpent * averageSpeed;
+            fuelUsed = distance / 12;
             
             Console.WriteLine("A velocidade média é: " + averageSpeed);
             Console.WriteLine("O tempo gasto é: " + timeSpent);
