@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Informe um número: ");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
 
             if (number % 2 == 0)
             {

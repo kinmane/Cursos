@@ -4,13 +4,16 @@
     {
         static void Main(string[] args)
         {
+            int id, qty;
+            double total;
+            
             Console.WriteLine("Informe o código do pedido: ");
-            int id = int.Parse(Console.ReadLine());
+            id = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Informe a quantidade pedida: ");
-            int qty = int.Parse(Console.ReadLine());
+            qty = int.Parse(Console.ReadLine());
 
-            double total = 0.0;
+            total = 0.0;
             if (id == 1)
             {
                 total = qty * 4.0;

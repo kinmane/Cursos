@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
+            double number;
+            
             Console.WriteLine("Informe um valor: ");
-            double number = double.Parse(Console.ReadLine());
+            number = double.Parse(Console.ReadLine());
 
             if (number <= 25.0)
             {

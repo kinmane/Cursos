@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
+            int pass;
+            
             Console.Write("Senhaenha: ");
-            int pass = int.Parse(Console.ReadLine());
+            pass = int.Parse(Console.ReadLine());
 
             while (pass != 2002)
             {

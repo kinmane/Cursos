@@ -4,8 +4,10 @@
     {
         public static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Digite o número de pares a serem lidos:");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < number; i++)
             {

@@ -4,10 +4,12 @@
     {
         static void Main(string[] args)
         {
+            int x, y;
+            
             Console.WriteLine("Informe as coordenadas: ");
             string[] values = Console.ReadLine().Split(' ');
-            int x = int.Parse(values[0]);
-            int y = int.Parse(values[1]);
+            x = int.Parse(values[0]);
+            y = int.Parse(values[1]);
 
             while (x != 0 && y != 0)
             {

@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            double a, b, c, triangle, circle, trapezium, square, rectangle;
+            double a, b, c;
+            double triangle, circle, trapezium, square, rectangle;
 
             Console.WriteLine("Digite os valores de A, B e C: ");
             string[] input = Console.ReadLine().Split(' ');

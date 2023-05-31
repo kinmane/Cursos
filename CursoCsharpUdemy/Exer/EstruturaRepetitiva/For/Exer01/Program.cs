@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Informe um valor inteiro: ");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
             
             for (int i = 1; i <= number; i++)
             {

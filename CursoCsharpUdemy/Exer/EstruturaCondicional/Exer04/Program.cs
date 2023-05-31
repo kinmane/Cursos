@@ -4,13 +4,15 @@
     {
         static void Main(string[] args)
         {
+            int start, final, duration;
+            
             Console.WriteLine("Informe a hora inicial do jogo:");
-            int start = int.Parse(Console.ReadLine());
+            start = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Informe a hora final do jogo:");
-            int final = int.Parse(Console.ReadLine());
+            final = int.Parse(Console.ReadLine());
 
-            int duration = 0;
+            duration = 0;
             if (start < final)
             {
                 duration = final - start;

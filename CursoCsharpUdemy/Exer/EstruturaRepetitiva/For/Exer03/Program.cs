@@ -1,11 +1,15 @@
-﻿namespace Exer03
+﻿using System.Runtime.InteropServices.JavaScript;
+
+namespace Exer03
 {
     public class Program
     {
         static void Main(string[] args)
         {
+            int number;
+            
             Console.WriteLine("Informe o número de casos de teste: ");
-            int number = int.Parse(Console.ReadLine());
+            number = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < number; i++)
             {
