@@ -9,12 +9,14 @@ namespace Algoritimo
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite a largura do terreno: ");
-            double width = double.Parse(Console.ReadLine());
-            Console.Write("Digite a altura do terreno: ");
-            double height = double.Parse(Console.ReadLine());
+            double width, height, area;
             
-            double area = width * height;
+            Console.Write("Digite a largura do terreno: ");
+            width = double.Parse(Console.ReadLine());
+            Console.Write("Digite a altura do terreno: ");
+            height = double.Parse(Console.ReadLine());
+            
+            area = width * height;
             
             Console.WriteLine($"A área do terreno é {area}m²");
         }

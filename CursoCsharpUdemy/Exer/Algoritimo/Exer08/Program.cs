@@ -9,7 +9,20 @@ namespace Exer08
     {
         static void Main(string[] args)
         {
+            double grade1, grade2, grade3, media;
 
+            System.Console.Write("Digite a primeira nota: ");
+            grade1 = double.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Digite a segunda nota: ");
+            grade2 = double.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Digite a terceira nota: ");
+            grade3 = double.Parse(System.Console.ReadLine());
+
+            media = (grade1 + grade2 + grade3) / 3;
+
+            System.Console.WriteLine($"A média é {media}");
         }
     }
 }

@@ -13,7 +13,19 @@ namespace Exer03
     {
         static void Main(string[] args)
         {
+            double bread, cornBread, total, savings;
 
+            Console.WriteLine("Quantas unidades de pães foram vendidas ? ");
+            bread = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Quantas unidades de broas foram vendidas ? ");
+            cornBread = double.Parse(Console.ReadLine());
+
+            total = bread * 0.12 + cornBread * 1.50;
+            savings = total * 0.1;
+
+            Console.WriteLine($"Foi vendido um total de R${total}");
+            Console.WriteLine($"Deve ser guardado R${savings} para a poupança");
         }
     }
 }

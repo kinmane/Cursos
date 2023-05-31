@@ -9,7 +9,14 @@ namespace Exer02
     {
         static void Main(string[] args)
         {
-
+            int horses, horseshoes;
+            
+            System.Console.Write("Quantos cavalos você comprou? ");
+            horses = int.Parse(System.Console.ReadLine());
+            
+            horseshoes = horses * 4;
+            
+            System.Console.WriteLine($"Você precisará de {horseshoes} ferraduras.");
         }
     }
 }

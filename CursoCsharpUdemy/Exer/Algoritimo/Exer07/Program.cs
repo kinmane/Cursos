@@ -9,7 +9,17 @@ namespace Exer07
     {
         static void Main(string[] args)
         {
+            int day, month, daysPassed;
 
+            System.Console.Write("Informe o dia: ");
+            day = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Informe o mês: ");
+            month = int.Parse(System.Console.ReadLine());
+
+            daysPassed = (month - 1) * 30 + day;
+
+            System.Console.WriteLine($"Desde o início do ano, se passaram {daysPassed} dias.");
         }
     }
 }

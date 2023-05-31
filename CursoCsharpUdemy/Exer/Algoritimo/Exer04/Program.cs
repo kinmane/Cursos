@@ -10,7 +10,16 @@ namespace Exer04
     {
         static void Main(string[] args)
         {
+            string name;
+            int age;
 
+            System.Console.Write("Digite seu nome: ");
+            name = System.Console.ReadLine();
+
+            System.Console.Write("Digite sua idade: ");
+            age = int.Parse(System.Console.ReadLine());
+
+            System.Console.WriteLine($"{name}, você já viveu {age * 365} dias.");
         }
     }
 }

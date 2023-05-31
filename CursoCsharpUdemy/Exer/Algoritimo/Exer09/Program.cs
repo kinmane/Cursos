@@ -11,7 +11,24 @@ namespace Exer09
     {
         static void Main(string[] args)
         {
+            int smallAmount, mediumAmount, largeAmount, total;
+            
+            int small = 10;
+            int medium = 12;
+            int large = 15;
 
+            System.Console.Write("Quantidade de camisetas pequenas: ");
+            smallAmount = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Quantidade de camisetas médias: ");
+            mediumAmount = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Quantidade de camisetas grandes: ");
+            largeAmount = int.Parse(System.Console.ReadLine());
+
+            total = (small * smallAmount) + (medium * mediumAmount) + (large * largeAmount);
+
+            System.Console.WriteLine($"Total arrecadado: {total}");
         }
     }
 }

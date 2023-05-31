@@ -10,7 +10,16 @@ namespace Exer06
     {
         static void Main(string[] args)
         {
-
+            double pricePerKg = 12.00;
+            double weight = 0.0;
+            double total = 0.0;
+            
+            System.Console.Write("Peso do prato (kg): ");
+            weight = double.Parse(System.Console.ReadLine());
+            
+            total = weight * pricePerKg;
+            
+            System.Console.WriteLine("Total a pagar: R$ {0}", total);
         }
     }
 }
