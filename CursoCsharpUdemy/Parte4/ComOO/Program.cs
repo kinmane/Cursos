@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            double p, areaX, areaY;
+            double areaX, areaY;
             Triangulo x, y;
 
             x = new Triangulo();
@@ -20,11 +20,9 @@
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
             
-            p = (x.A + x.B + x.C) / 2.0;
-            areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            areaX = x.Area();
             
-            p = (y.A + y.B + y.C) / 2.0;
-            areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            areaY = y.Area();
             
             Console.WriteLine("Área de X = " + areaX.ToString("F4"));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4"));
