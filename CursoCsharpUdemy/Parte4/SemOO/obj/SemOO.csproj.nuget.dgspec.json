@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\SemOO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -22,6 +25,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
