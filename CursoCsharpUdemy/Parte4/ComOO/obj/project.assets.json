@@ -20,7 +20,9 @@
       "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte4\\ComOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
