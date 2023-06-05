@@ -19,8 +19,6 @@ while True:
     if num > largest:
         largest = num
 
-if smallest != float('inf') and largest != float('-inf'):
-    print(f"O menor valor é {smallest:.2f}")
-    print(f"O maior valor é {largest:.2f}")
-else:
-    print("Nenhum número positivo foi inserido.")
+    if smallest != float('inf') and largest != float('-inf'):
+        print(f"O menor valor é {smallest:.2f}")
+        print(f"O maior valor é {largest:.2f}")

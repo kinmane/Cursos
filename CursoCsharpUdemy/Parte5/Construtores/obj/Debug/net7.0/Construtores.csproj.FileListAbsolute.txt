@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\Construtores\obj\Debug\net7.0\ref\Construtores.dll
