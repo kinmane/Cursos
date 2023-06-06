@@ -10,67 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495205c1-6b6b-42d0-bfb5-dffc8546a7a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Parte5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Parte5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Parte5/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Parte5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/f726445c-837e-42e6-bbaa-4bde82797362.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/read.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.futdcache.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.metadata.v7.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.projects.v7.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/AlternativaIniciarValores.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Produto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/AlternativaIniciarValores.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/AlternativaIniciarValores.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/AlternativaIniciarValores.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/Debug/net7.0/AlternativaIniciarValores.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/Produto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/bin/Debug/net7.0/Construtores.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/bin/Debug/net7.0/Construtores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/bin/Debug/net7.0/Construtores.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/bin/Debug/net7.0/Construtores.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/bin/Debug/net7.0/Construtores.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/Construtores.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/Construtores.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/Construtores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/Construtores.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/Construtores.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/ref/Construtores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/Debug/net7.0/refint/Construtores.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Construtores/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/Produto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/Sobrecarga.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Debug/net7.0/Sobrecarga.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Sobrecarga.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Sobrecarga.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/Sobrecarga.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sobrecarga/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CursoPython3/exer/lista64Exer/exer34.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../CursoPython3/exer/lista64Exer/exer34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/9ed9d878-b3af-45bd-b464-c7a1f70c6148.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/b6c38c76-5d7b-4a0d-8bb6-0a1e84cbcb3d.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parte5.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Parte5/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/f726445c-837e-42e6-bbaa-4bde82797362.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Parte5/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Parte5/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.metadata.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.projects.v7.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/Produto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Produto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construtores/Produto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/Produto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construtores/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,30 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\gabriel.rorato\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\gabriel.rorato\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\gabriel.rorato\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\gabriel.rorato\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\gabriel.rorato\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Construtores">
     <configuration name="AlternativaIniciarValores" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -177,6 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685985748584</updated>
       <workItem from="1685985752347" duration="6125000" />
+      <workItem from="1686052334836" duration="2215000" />
     </task>
     <servers />
   </component>

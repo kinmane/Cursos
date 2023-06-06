@@ -1,6 +1,4 @@
-﻿using Sobrecarga;
-
-namespace AlternativaIniciarValores
+﻿namespace AlternativaIniciarValores
 {
     class Program
     {
