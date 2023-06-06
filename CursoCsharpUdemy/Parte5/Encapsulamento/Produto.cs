@@ -5,21 +5,26 @@
         private string _nome;
         private double _preco;
         private int _quantidade;
-        
+
         public Produto()
         {
         }
 
-        public Produto(string nome,double preco, int quantidade)
+        public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
-            Preco = preco;
+            _nome = nome;
+            _preco = preco;
             _quantidade = quantidade;
+        }
+
+        public string GetNome()
+        {
+            return _nome;
         }
 
         public double ValorTotalEmEstoque()
         {
-            return Preco * _quantidade;
+            return _preco * _quantidade;
         }
 
         public void AdicionarProdutos(int quantidade)
@@ -34,9 +39,9 @@
 
         public override string ToString()
         {
-            return Nome
+            return _nome
                    + ", $ "
-                   + Preco.ToString("F2")
+                   + _preco.ToString("F2")
                    + ", "
                    + _quantidade
                    + " unidades, Total: R$"
