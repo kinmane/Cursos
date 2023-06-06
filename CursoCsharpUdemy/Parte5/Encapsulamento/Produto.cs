@@ -22,6 +22,14 @@
             return _nome;
         }
 
+        public void SetNome(string nome)
+        {
+            if (nome != null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
+        }
+
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
