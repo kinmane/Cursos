@@ -30,6 +30,16 @@
             }
         }
 
+        public double GetPreco()
+        {
+            return _preco;
+        }
+
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
