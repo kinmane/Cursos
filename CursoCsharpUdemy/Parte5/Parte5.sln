@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga", "Sobrecarga\So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlternativaIniciarValores", "AlternativaIniciarValores\AlternativaIniciarValores.csproj", "{A5AA4385-5005-449D-845D-4EB64E5D795C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", "{CEDD5372-3625-455E-81D2-2D6CB535EE45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", "{CEDD5372-3625-455E-81D2-2D6CB535EE45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{CAAEE712-8FC1-4A24-A8D2-4B17ECB4C114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{CAAEE712-8FC1-4A24-A8D2-4B17ECB4C114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{83C94392-A91D-4B2D-8D51-DAD2E7A35649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoProperties", "AutoProperties\AutoProperties.csproj", "{493875BD-7EAA-4A73-81DC-440E0875752E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{CAAEE712-8FC1-4A24-A8D2-4B17ECB4C114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAAEE712-8FC1-4A24-A8D2-4B17ECB4C114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAAEE712-8FC1-4A24-A8D2-4B17ECB4C114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C94392-A91D-4B2D-8D51-DAD2E7A35649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C94392-A91D-4B2D-8D51-DAD2E7A35649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C94392-A91D-4B2D-8D51-DAD2E7A35649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C94392-A91D-4B2D-8D51-DAD2E7A35649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493875BD-7EAA-4A73-81DC-440E0875752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493875BD-7EAA-4A73-81DC-440E0875752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493875BD-7EAA-4A73-81DC-440E0875752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493875BD-7EAA-4A73-81DC-440E0875752E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
