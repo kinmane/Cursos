@@ -1,4 +1,6 @@
-﻿namespace ContaBancaria
+﻿using System.Globalization;
+
+namespace ContaBancaria
 {
     public class ContaBancaria
     {
@@ -25,6 +27,11 @@
         public void Saque(double valor)
         {
             Balance -= valor + 5.0;
+        }
+
+        public override string ToString()
+        {
+            return $"Conta {Number}, Titular: {Name}, Saldo: ${Balance.ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
