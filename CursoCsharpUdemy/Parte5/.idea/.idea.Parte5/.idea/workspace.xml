@@ -10,19 +10,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495205c1-6b6b-42d0-bfb5-dffc8546a7a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/9ed9d878-b3af-45bd-b464-c7a1f70c6148.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/b6c38c76-5d7b-4a0d-8bb6-0a1e84cbcb3d.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parte5.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Parte5/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Parte5/FileContentIndex/f726445c-837e-42e6-bbaa-4bde82797362.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Parte5/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Parte5/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Parte5/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.metadata.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.metadata.v7.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.projects.v7.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/parte5.projects.v7.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/Produto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Produto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Construtores/Produto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/Produto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Construtores/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/obj/AlternativaIniciarValores.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/AlternativaIniciarValores.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlternativaIniciarValores/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AlternativaIniciarValores/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoProperties/obj/AutoProperties.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutoProperties/obj/AutoProperties.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoProperties/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AutoProperties/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construtores/obj/Construtores.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/obj/Construtores.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Construtores/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Construtores/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulamento/obj/Encapsulamento.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulamento/obj/Encapsulamento.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulamento/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulamento/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/obj/Properties.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/obj/Properties.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sobrecarga/obj/Sobrecarga.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sobrecarga/obj/Sobrecarga.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sobrecarga/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sobrecarga/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/bin/Debug/net7.0/This.dll" beforeDir="false" afterPath="$PROJECT_DIR$/This/bin/Debug/net7.0/This.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/bin/Debug/net7.0/This.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/This/bin/Debug/net7.0/This.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.dll" beforeDir="false" afterPath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/This/obj/Debug/net7.0/This.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/obj/This.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/This/obj/This.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/This/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/This/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +136,7 @@
       <updated>1685985748584</updated>
       <workItem from="1685985752347" duration="6125000" />
       <workItem from="1686052334836" duration="2215000" />
+      <workItem from="1686592944638" duration="11000" />
     </task>
     <servers />
   </component>
