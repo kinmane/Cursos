@@ -11,7 +11,7 @@
 
             Console.WriteLine("Entre o número da conta: ");
             number = int.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com onome do titular da conta: ");
+            Console.WriteLine("Entre com o nome do titular da conta: ");
             name = Console.ReadLine();
             Console.WriteLine("Haverá depósito inicial (s/n)? ");
             response = char.Parse(Console.ReadLine().ToUpper());
@@ -32,6 +32,19 @@
             Console.WriteLine("");
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(conta);
+
+            Console.WriteLine("");
+            Console.WriteLine("Entre um valor para depósito: ");
+            conta.Deposito(double.Parse(Console.ReadLine()));
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
+            Console.WriteLine("");
+            Console.WriteLine("Entre um valor para saque: ");
+            conta.Saque(double.Parse(Console.ReadLine()));
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+            Console.WriteLine("");
         }
     }
 }

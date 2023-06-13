@@ -16,7 +16,7 @@ namespace ContaBancaria
 
         public ContaBancaria(int number, string name, double balance) : this(number, name)
         {
-            Balance = balance;
+            Deposito(balance);
         }
 
         public void Deposito(double valor)
