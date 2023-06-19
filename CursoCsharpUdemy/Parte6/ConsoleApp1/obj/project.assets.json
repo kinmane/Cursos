@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\ConsoleApp1\\TipoReferenciaTipoValor.csproj",
+      "projectName": "TipoReferenciaTipoValor",
+      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\ConsoleApp1\\TipoReferenciaTipoValor.csproj",
       "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
