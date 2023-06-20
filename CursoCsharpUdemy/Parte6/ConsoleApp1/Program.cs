@@ -12,6 +12,8 @@
 
             p1 = new Point();
             Console.WriteLine(p1);
+
+            Console.WriteLine("");
         }
     }
 }
