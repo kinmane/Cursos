@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\bin\Debug\net7.0\TipoReferenciaTipoValor.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\bin\Debug\net7.0\TipoReferenciaTipoValor.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\bin\Debug\net7.0\TipoReferenciaTipoValor.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\bin\Debug\net7.0\TipoReferenciaTipoValor.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\bin\Debug\net7.0\TipoReferenciaTipoValor.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\refint\TipoReferenciaTipoValor.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\TipoReferenciaTipoValor.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte6\TipoReferenciaTipoValor\obj\Debug\net7.0\ref\TipoReferenciaTipoValor.dll
