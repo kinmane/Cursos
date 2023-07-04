@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\bin\Debug\net7.0\ToDoConsole.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\bin\Debug\net7.0\ToDoConsole.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\bin\Debug\net7.0\ToDoConsole.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\bin\Debug\net7.0\ToDoConsole.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\bin\Debug\net7.0\ToDoConsole.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\refint\ToDoConsole.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ToDoConsole.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ToDoConsole\ToDoConsole\obj\Debug\net7.0\ref\ToDoConsole.dll
