@@ -2,58 +2,66 @@
 {
     public class ToDoList
     {
-        private List<ToDo> _tasks;
+        private List<ToDo> tasks;
+        private TodoContext dbContext;
 
         public ToDoList()
         {
-            _tasks = new List<ToDo>();
+            dbContext = new TodoContext();
+            tasks = dbContext.Todos.ToList();
         }
 
         public void AddTask(string description)
         {
-            ToDo task = new ToDo {Description = description};
-            _tasks.Add(task);
+            ToDo task = new ToDo { Description = description };
+            tasks.Add(task);
+            dbContext.Todos.Add(task);
+            dbContext.SaveChanges();
             Console.WriteLine("Nova tarefa adicionada com sucesso!");
         }
 
         public void DeleteTask(int index)
         {
-            if (index >= 0 && index < _tasks.Count)
+            if (index >= 0 && index < tasks.Count)
             {
-                _tasks.RemoveAt(index);
+                ToDo task = tasks[index];
+                tasks.RemoveAt(index);
+                dbContext.Todos.Remove(task);
+                dbContext.SaveChanges();
                 Console.WriteLine("Tarefa removida com sucesso!");
             }
             else
             {
-                Console.WriteLine("Tarefa não encontrada!");
+                Console.WriteLine("Índice inválido!");
             }
         }
-        
-        public void EditTask(int index, string description)
+
+        public void EditTask(int index, string newDescription)
         {
-            if (index >= 0 && index < _tasks.Count)
+            if (index >= 0 && index < tasks.Count)
             {
-                _tasks[index].Description = description;
+                tasks[index].Description = newDescription;
+                dbContext.SaveChanges();
                 Console.WriteLine("Tarefa editada com sucesso!");
             }
             else
             {
-                Console.WriteLine("Tarefa não encontrada!");
+                Console.WriteLine("Índice inválido!");
             }
         }
 
         public void PrintAllTasks()
         {
-            if (_tasks.Count == 0)
+            if (tasks.Count == 0)
             {
-                Console.WriteLine("Nenhuma tarefa cadastrada!");
+                Console.WriteLine("A lista de tarefas está vazia.");
             }
             else
             {
-                Console.WriteLine("Tarefas cadastradas:");
-                for (int i = 0; i < _tasks.Count; i++)
+                Console.WriteLine("Lista de Tarefas:");
+                for (int i = 0; i < tasks.Count; i++)
                 {
-                    Console.WriteLine($"{i} - {_tasks[i].Description}");
+                    Console.WriteLine($"[{i}] - Descrição: {tasks[i].Description}, Completa: {tasks[i].IsComplete}, Data de Criação: {tasks[i].CreatedDate}");
                 }
             }
         }
