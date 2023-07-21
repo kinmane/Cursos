@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresStruct", "VetoresStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresClass", "VetoresClass\VetoresClass.csproj", "{C4BE6C7D-9C6F-4BB2-9E39-EF5DB780B64A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{4CDB1850-22C9-4CE6-848E-BA41CA118950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C4BE6C7D-9C6F-4BB2-9E39-EF5DB780B64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BE6C7D-9C6F-4BB2-9E39-EF5DB780B64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BE6C7D-9C6F-4BB2-9E39-EF5DB780B64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
