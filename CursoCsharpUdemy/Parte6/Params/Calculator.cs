@@ -1,4 +1,4 @@
-﻿namespace ExerPropostoVetores
+﻿namespace Params
 {
     public class Calculator
     {

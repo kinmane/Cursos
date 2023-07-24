@@ -1,4 +1,4 @@
-﻿namespace VetoresStruct
+﻿namespace Vetores
 {
     public class Program
     {

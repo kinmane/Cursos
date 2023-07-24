@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresClass", "VetoresClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{4CDB1850-22C9-4CE6-848E-BA41CA118950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{FBB79D96-2996-41CC-985D-B57483DC51FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out", "Out\Out.csproj", "{302D80D1-B999-4102-B9A9-D4768E191163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CDB1850-22C9-4CE6-848E-BA41CA118950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB79D96-2996-41CC-985D-B57483DC51FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB79D96-2996-41CC-985D-B57483DC51FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB79D96-2996-41CC-985D-B57483DC51FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB79D96-2996-41CC-985D-B57483DC51FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302D80D1-B999-4102-B9A9-D4768E191163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302D80D1-B999-4102-B9A9-D4768E191163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302D80D1-B999-4102-B9A9-D4768E191163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302D80D1-B999-4102-B9A9-D4768E191163}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
