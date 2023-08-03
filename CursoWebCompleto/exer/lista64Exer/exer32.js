@@ -1,0 +1,4 @@
+// Exercício 32
+/* 32) Escreva um programa que calcule e exiba a soma dos quadrados dos 20 primeiros números inteiros positivos
+ímpares a partir do número informado pelo usuário menor que 10 e maior que zero. */
+
