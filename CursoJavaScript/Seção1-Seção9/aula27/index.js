@@ -6,7 +6,7 @@ const nivelUsuario = pontuacaoUsuario >= 1000 ? 'Usuário VIP' : 'Usuário norma
 const corUsuario = null;
 const corPadrao = corUsuario || 'Preta';
 
-console.log(nivelUsuario);
+console.log(nivelUsuario, corPadrao);
 
 // if (pontuacaoUsuario>= 1000) {
 //     console.log('Usuário VIP');
