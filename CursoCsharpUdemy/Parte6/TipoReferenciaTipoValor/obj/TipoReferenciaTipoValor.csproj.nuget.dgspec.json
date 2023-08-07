@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj": {}
+    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj": {
+    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj",
+        "projectUniqueName": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj",
         "projectName": "TipoReferenciaTipoValor",
-        "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj",
+        "projectPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\TipoReferenciaTipoValor.csproj",
         "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\obj\\",
+        "outputPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\TipoReferenciaTipoValor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
