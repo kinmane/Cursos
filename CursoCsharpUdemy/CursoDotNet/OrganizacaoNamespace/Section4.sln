@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizacaoNamespace", "OrganizacaoNamespace\OrganizacaoNamespace.csproj", "{0A940CBD-F964-451A-8F3F-A0C79F64E9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseInstancias", "ClasseInstancias\ClasseInstancias.csproj", "{884DB3B1-7C71-4A3E-B9AE-65DFF76048C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametrosAcessibilidadeSobrecargaOverride", "ParametrosAcessibilidadeSobrecargaOverride\ParametrosAcessibilidadeSobrecargaOverride.csproj", "{CC3BAE11-94E2-48BB-9495-C439BCE652E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A940CBD-F964-451A-8F3F-A0C79F64E9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A940CBD-F964-451A-8F3F-A0C79F64E9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A940CBD-F964-451A-8F3F-A0C79F64E9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A940CBD-F964-451A-8F3F-A0C79F64E9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{884DB3B1-7C71-4A3E-B9AE-65DFF76048C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884DB3B1-7C71-4A3E-B9AE-65DFF76048C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884DB3B1-7C71-4A3E-B9AE-65DFF76048C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884DB3B1-7C71-4A3E-B9AE-65DFF76048C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3BAE11-94E2-48BB-9495-C439BCE652E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3BAE11-94E2-48BB-9495-C439BCE652E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3BAE11-94E2-48BB-9495-C439BCE652E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3BAE11-94E2-48BB-9495-C439BCE652E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
