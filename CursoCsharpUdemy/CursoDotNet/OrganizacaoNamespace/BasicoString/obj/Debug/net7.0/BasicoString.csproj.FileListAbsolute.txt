@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\bin\Debug\net7.0\BasicoString.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\bin\Debug\net7.0\BasicoString.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\bin\Debug\net7.0\BasicoString.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\bin\Debug\net7.0\BasicoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\bin\Debug\net7.0\BasicoString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\refint\BasicoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\BasicoString.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\BasicoString\obj\Debug\net7.0\ref\BasicoString.dll
