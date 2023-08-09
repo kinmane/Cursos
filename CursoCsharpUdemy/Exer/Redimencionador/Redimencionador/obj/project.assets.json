@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Exer\\Redimencionador\\Redimencionador\\Redimencionador.csproj",
-      "projectName": "Redimencionador",
-      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Exer\\Redimencionador\\Redimencionador\\Redimencionador.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Exer\\Redimencionador\\Redimencionador\\Redimensionador.csproj",
+      "projectName": "Redimensionador",
+      "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Exer\\Redimencionador\\Redimencionador\\Redimensionador.csproj",
       "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Exer\\Redimencionador\\Redimencionador\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
