@@ -17,9 +17,13 @@ namespace DotNet5E6.Pages
 
         public void OnGet()
         {
+
+            _logger.LogInformation("Meu usuário acessou a página inicial");
             var usuarios = _context.Users.ToList();
 
             Console.WriteLine(usuarios[0].NormalizedUserName);
+
+            _logger.LogWarning("Toma cuidado");
         }
     }
 }
