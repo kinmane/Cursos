@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,44 +42,32 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "Humanizer.Core": {
-              "target": "Package",
-              "version": "[2.14.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.21, )"
-            },
-            "Microsoft.Extensions.DependencyModel": {
-              "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.16, )"
-            },
-            "Mono.TextTemplating": {
-              "target": "Package",
-              "version": "[2.3.1, )"
+              "version": "[7.0.9, )"
             }
           },
           "imports": [
