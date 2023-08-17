@@ -40,6 +40,13 @@ namespace RazorPagesFilmes.Pages.Movies
                 filmes = filmes.Where(f => f.Tittle.Contains(TermoBusca));
             }
 
+            if (!string.IsNullOrEmpty(FilmeGenero))
+            {
+                filmes = filmes.Where(f => f.Genre == FilmeGenero);
+            }
+
+            Generos = new SelectList(await _context.Movie.Select(o => o.Genre).Distinct().ToListAsync());
+
             if (_context.Movie != null)
             {
                 Movie = await filmes.ToListAsync();
