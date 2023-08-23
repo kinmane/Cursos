@@ -15,9 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kinmane&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dfd0b692-3edf-403d-ac0b-0afcc69691db" />
+        <option name="url" value="https://github.com/kinmane/Cursos.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2TLxTpPQcldvIFrPuusZ537tzTQ" />
   <component name="ProjectViewState">
@@ -36,7 +52,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,6 +74,12 @@
       <workItem from="1692649604948" duration="95000" />
       <workItem from="1692649737458" duration="46000" />
       <workItem from="1692649812214" duration="76000" />
+      <workItem from="1692650892198" duration="57000" />
+      <workItem from="1692737995646" duration="21000" />
+      <workItem from="1692787857469" duration="611000" />
+      <workItem from="1692801723189" duration="1739000" />
+      <workItem from="1692808685392" duration="42000" />
+      <workItem from="1692809593674" duration="1190000" />
     </task>
     <servers />
   </component>
