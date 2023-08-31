@@ -3,7 +3,6 @@ C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exe
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\bin\Debug\net7.0\Exer01.runtimeconfig.json
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\bin\Debug\net7.0\Exer01.dll
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\bin\Debug\net7.0\Exer01.pdb
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\obj\Debug\net7.0\Exer01.csproj.AssemblyReference.cache
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\obj\Debug\net7.0\Exer01.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\obj\Debug\net7.0\Exer01.AssemblyInfoInputs.cache
 C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer01\obj\Debug\net7.0\Exer01.AssemblyInfo.cs
