@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\VetoresStruct\\VetoresStruct.csproj": {}
+    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\VetoresStruct\\VetoresStruct.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\VetoresStruct\\VetoresStruct.csproj": {
+    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\VetoresStruct\\VetoresStruct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\VetoresStruct\\VetoresStruct.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\VetoresStruct\\VetoresStruct.csproj",
         "projectName": "VetoresStruct",
-        "projectPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\VetoresStruct\\VetoresStruct.csproj",
+        "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\VetoresStruct\\VetoresStruct.csproj",
         "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\Parte6\\VetoresStruct\\obj\\",
+        "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\VetoresStruct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
