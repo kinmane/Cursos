@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj": {}
+    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj": {
+    "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj",
+        "projectUniqueName": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj",
         "projectName": "Out",
-        "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj",
+        "projectPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\Out.csproj",
         "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\obj\\",
+        "outputPath": "c:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoCSharpCompleto\\Parte6\\Out\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
