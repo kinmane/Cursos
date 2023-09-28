@@ -25,7 +25,7 @@
             
             double avg = sum / n;
             
-            System.Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2"));
+            Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2"));
         }
     }
 }
