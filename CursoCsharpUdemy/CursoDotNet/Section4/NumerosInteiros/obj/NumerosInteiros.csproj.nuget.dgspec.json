@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\OrganizacaoNamespace\\NumerosInteiros\\NumerosInteiros.csproj": {}
+    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\Section4\\NumerosInteiros\\NumerosInteiros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\OrganizacaoNamespace\\NumerosInteiros\\NumerosInteiros.csproj": {
+    "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\Section4\\NumerosInteiros\\NumerosInteiros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\OrganizacaoNamespace\\NumerosInteiros\\NumerosInteiros.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\Section4\\NumerosInteiros\\NumerosInteiros.csproj",
         "projectName": "NumerosInteiros",
-        "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\OrganizacaoNamespace\\NumerosInteiros\\NumerosInteiros.csproj",
+        "projectPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\Section4\\NumerosInteiros\\NumerosInteiros.csproj",
         "packagesPath": "C:\\Users\\gabriel.rorato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\OrganizacaoNamespace\\NumerosInteiros\\obj\\",
+        "outputPath": "C:\\Users\\gabriel.rorato\\Documents\\GitHub\\Cursos\\CursoCsharpUdemy\\CursoDotNet\\Section4\\NumerosInteiros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
