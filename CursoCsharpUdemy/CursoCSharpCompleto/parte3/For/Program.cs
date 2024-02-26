@@ -5,18 +5,18 @@
         static void Main(string[] args)
         {
             Console.Write("Quantos números inteiros você vai digitar: ");
-            int number = int.Parse(Console.ReadLine());
+            int numero = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            int soma = 0;
             for (int i = 1; i <= number; i++)
             {
                 Console.Write("Valor #{0}: ", i);
-                int value = int.Parse(Console.ReadLine());
+                int valor = int.Parse(Console.ReadLine());
 
-                sum += value;
+                soma += valor;
             }
 
-            Console.WriteLine("Soma = " + sum);
+            Console.WriteLine("Soma = " + soma);
         }
     }
 }

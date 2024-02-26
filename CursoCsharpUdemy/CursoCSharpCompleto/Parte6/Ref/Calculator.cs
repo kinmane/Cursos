@@ -2,7 +2,7 @@
 {
     public class Calculator
     {
-        public static void Triple(ref int x)
+        public static void Triplo(ref int x)
         {
             x = x * 3;
         }

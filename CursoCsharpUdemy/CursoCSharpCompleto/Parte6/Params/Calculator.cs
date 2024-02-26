@@ -2,16 +2,16 @@
 {
     public class Calculator
     {
-        public static int Sum(params int[] numbers)
+        public static int Soma(params int[] numeros)
         {
-            int sum = 0;
+            int soma = 0;
             
-            for (int i = 0; i < numbers.Length; i++)
+            for (int i = 0; i < numeros.Length; i++)
             {
-                sum += numbers[i];
+                soma += numeros[i];
             }
 
-            return sum;
+            return soma;
         }
     }
 }

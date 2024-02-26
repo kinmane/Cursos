@@ -13,16 +13,16 @@
                 vect[i] = double.Parse(Console.ReadLine());
             }
             
-            double sum = 0;
+            double soma = 0;
             
             for (int i = 0; i < n; i++)
             {
-                sum += vect[i];
+                soma += vect[i];
             }
             
-            double avg = sum / n;
+            double avg = soma / n;
             
-            Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2"));
+            Console.WriteLine("altura Média = " + avg.ToString("F2"));
         }
     }
 }

@@ -6,7 +6,7 @@
         {
             int a = 10;
             int triple;
-            Calculator.Triple(ref a);
+            Calculator.Triplo(ref a);
             System.Console.WriteLine(a);
         }
     }

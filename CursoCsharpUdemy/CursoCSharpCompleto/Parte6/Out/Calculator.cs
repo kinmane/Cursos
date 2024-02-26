@@ -2,9 +2,9 @@
 {
     public class Calculator
     {
-        public static void Triple(int origin, out int result)
+        public static void Triplo(int origem, out int resultado)
         {
-            result = origin * 3;
+            resultado = origem * 3;
         }
     }
 }

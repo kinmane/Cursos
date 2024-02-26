@@ -10,22 +10,22 @@
 
             for (int i = 0; i < n; i++)
             {
-                string name = Console.ReadLine();
-                double price = double.Parse(Console.ReadLine());
+                string nome = Console.ReadLine();
+                double preco = double.Parse(Console.ReadLine());
                 
-                vect[i] = new Product { Name = name, Price = price };
+                vect[i] = new Product { Nome = nome, Preco = preco };
             }
             
-            double sum = 0;
+            double soma = 0;
             
             for (int i = 0; i < n; i++)
             {
-                sum += vect[i].Price;
+                soma += vect[i].Preco;
             }
             
-            double avg = sum / n;
+            double avg = soma / n;
             
-            Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2"));
+            Console.WriteLine("Preço Médio = " + avg.ToString("F2"));
         }
     }
 }

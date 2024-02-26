@@ -6,18 +6,18 @@
         {
             // Simples
             Console.WriteLine("Entre com um número inteiro: ");
-            int number = int.Parse(Console.ReadLine());
+            int numero = int.Parse(Console.ReadLine());
 
-            if (number >= 10)
+            if (numero >= 10)
             {
                 Console.WriteLine("Seu numero tem dois dígitos");
             }
 
             // Composta
             Console.WriteLine("Entre com um número inteiro: ");
-            int number1 = int.Parse(Console.ReadLine());
+            int numero1 = int.Parse(Console.ReadLine());
 
-            if (number1 % 2 == 0)
+            if (numero1 % 2 == 0)
             {
                 Console.WriteLine("Par!");
             }
@@ -28,12 +28,12 @@
 
             // Encadeamento
             Console.WriteLine("Qual a hora atual? ");
-            int hour = int.Parse(Console.ReadLine());
+            int hora = int.Parse(Console.ReadLine());
                             
-            if (hour < 12) {
+            if (hora < 12) {
                 Console.WriteLine("Bom dia!");
             }
-            else if (hour < 18)
+            else if (hora < 18)
             {
                 Console.WriteLine("Boa tarde!");
             }

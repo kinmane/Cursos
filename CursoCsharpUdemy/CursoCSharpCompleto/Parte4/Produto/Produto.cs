@@ -2,32 +2,32 @@
 
 public class Produto
 {
-    public string Name;
-    public double Price;
-    public int Quantity;
+    public string Nome;
+    public double Preco;
+    public int Quantidade;
     
     public double TotalValueInStock()
     {
-        return Price * Quantity;
+        return Preco * Quantidade;
     }
     
-    public void AddProducts(int quantity)
+    public void AddProducts(int quantidade)
     {
-        Quantity += quantity;
+        Quantidade += quantidade;
     }
     
-    public void RemoveProducts(int quantity)
+    public void RemoveProducts(int quantidade)
     {
-        Quantity -= quantity;
+        Quantidade -= quantidade;
     }
     
     public override string ToString()
     {
-        return Name
+        return Nome
             + ", $ "
-            + Price.ToString("F2")
+            + Preco.ToString("F2")
             + ", "
-            + Quantity
+            + Quantidade
             + " unidades, Total: $ "
             + TotalValueInStock().ToString("F2");
     }
