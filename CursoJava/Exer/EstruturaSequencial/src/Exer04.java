@@ -22,7 +22,7 @@ public class Exer04 {
          valorHora = sc.nextDouble();
 
          salario = horasTrabalhadas * valorHora;
-         
+
          System.out.println("NUMBER = " + numeroFuncionario);
          System.out.printf("SALARY = U$ %.2f%n", salario);
     }
