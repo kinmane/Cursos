@@ -30,5 +30,7 @@ public class Exer05 {
          valorTotal = (numeroPecas01 * valorUnitarioPeca01) + (numeroPecas02 * valorUnitarioPeca02);
 
         System.out.println("VALOR A PAGAR: R$ " + String.format("%.2f", valorTotal));
+		
+		sc.close();
     }
 }

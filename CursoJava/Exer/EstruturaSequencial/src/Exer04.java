@@ -25,5 +25,7 @@ public class Exer04 {
 
          System.out.println("NUMBER = " + numeroFuncionario);
          System.out.printf("SALARY = U$ %.2f%n", salario);
+		 
+		 sc.close();
     }
 }

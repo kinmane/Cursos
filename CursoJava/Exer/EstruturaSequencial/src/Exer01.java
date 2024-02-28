@@ -19,6 +19,8 @@ public class Exer01 {
         numero02 = sc.nextInt();
 
         System.out.println("SOMA = " + (numero01 + numero02));
+		
+		sc.close();
 
     }
 }
