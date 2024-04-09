@@ -18,7 +18,13 @@ while True:
         valor = input('Valor: ')
         lista.append(valor)
     elif opcao == 'a':
-        print('a')
+        indece_str = input('Escolha o índice para apagar: ')
+        
+        try:
+            indice = int(indece_str)
+            del lista[indice]
+        except:
+            print('Não foi possível apagar esse índice')
     elif opcao == 'l':
         os.system('cls')
 
