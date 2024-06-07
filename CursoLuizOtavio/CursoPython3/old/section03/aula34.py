@@ -8,9 +8,10 @@ condicao = True
 
 while condicao:
     nome = input('Qual o seu nome: ')
-    print(f'Seu nome é {nome}')
-
-    if nome == 'sair':
-        break
+    
+    if nome == 'SAIR' or nome == 'Sair' or nome == 'sair':
+        print('Saindo...')
+    else:
+        print(f'Seu nome é {nome}')
 
 print('Acabou')
