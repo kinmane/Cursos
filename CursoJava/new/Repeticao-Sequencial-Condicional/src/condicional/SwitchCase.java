@@ -2,7 +2,7 @@ package condicional;
 
 import java.util.Scanner;
 
-public class switchCase {
+public class SwitchCase {
 
     Scanner sc = new Scanner(System.in);
 

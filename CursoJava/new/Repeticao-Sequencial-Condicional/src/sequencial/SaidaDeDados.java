@@ -2,7 +2,7 @@ package sequencial;
 
 import java.util.Locale;
 
-public class saidaDeDados {
+public class SaidaDeDados {
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
