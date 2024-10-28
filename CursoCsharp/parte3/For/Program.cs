@@ -8,7 +8,7 @@
             int numero = int.Parse(Console.ReadLine());
 
             int soma = 0;
-            for (int i = 1; i <= number; i++)
+            for (int i = 1; i <= numero; i++)
             {
                 Console.Write("Valor #{0}: ", i);
                 int valor = int.Parse(Console.ReadLine());
