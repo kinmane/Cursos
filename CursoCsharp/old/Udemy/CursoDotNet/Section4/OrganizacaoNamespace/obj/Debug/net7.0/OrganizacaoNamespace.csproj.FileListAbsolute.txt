@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\bin\Debug\net7.0\OrganizacaoNamespace.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\bin\Debug\net7.0\OrganizacaoNamespace.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\bin\Debug\net7.0\OrganizacaoNamespace.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\bin\Debug\net7.0\OrganizacaoNamespace.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\bin\Debug\net7.0\OrganizacaoNamespace.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\refint\OrganizacaoNamespace.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\OrganizacaoNamespace.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\OrganizacaoNamespace\obj\Debug\net7.0\ref\OrganizacaoNamespace.dll

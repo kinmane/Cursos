@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\refint\EstruturaCondicional.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\EstruturaCondicional\obj\Debug\net7.0\ref\EstruturaCondicional.dll

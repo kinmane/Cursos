@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\bin\Debug\net7.0\NumerosInteiros.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\bin\Debug\net7.0\NumerosInteiros.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\bin\Debug\net7.0\NumerosInteiros.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\bin\Debug\net7.0\NumerosInteiros.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\bin\Debug\net7.0\NumerosInteiros.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\refint\NumerosInteiros.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\NumerosInteiros.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\NumerosInteiros\obj\Debug\net7.0\ref\NumerosInteiros.dll

@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll

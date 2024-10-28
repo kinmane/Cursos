@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\bin\Debug\net7.0\ManipulandoString.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\bin\Debug\net7.0\ManipulandoString.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\bin\Debug\net7.0\ManipulandoString.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\bin\Debug\net7.0\ManipulandoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\bin\Debug\net7.0\ManipulandoString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\refint\ManipulandoString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ManipulandoString.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\ManipulandoString\obj\Debug\net7.0\ref\ManipulandoString.dll
