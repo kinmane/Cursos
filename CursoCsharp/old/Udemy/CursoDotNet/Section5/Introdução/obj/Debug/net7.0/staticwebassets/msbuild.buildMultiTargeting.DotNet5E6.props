@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DotNet5E6.props" />
-</Project>

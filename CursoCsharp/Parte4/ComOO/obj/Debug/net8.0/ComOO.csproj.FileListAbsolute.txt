@@ -1,5 +1,0 @@
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharp\Parte4\ComOO\obj\Debug\net8.0\ComOO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharp\Parte4\ComOO\obj\Debug\net8.0\ComOO.AssemblyInfoInputs.cache
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharp\Parte4\ComOO\obj\Debug\net8.0\ComOO.AssemblyInfo.cs
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharp\Parte4\ComOO\obj\Debug\net8.0\ComOO.csproj.CoreCompileInputs.cache
-C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharp\Parte4\ComOO\obj\Debug\net8.0\ComOO.sourcelink.json
