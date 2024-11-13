@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\bin\Debug\net7.0\OperadorsComparativosHelpers.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\bin\Debug\net7.0\OperadorsComparativosHelpers.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\bin\Debug\net7.0\OperadorsComparativosHelpers.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\bin\Debug\net7.0\OperadorsComparativosHelpers.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\bin\Debug\net7.0\OperadorsComparativosHelpers.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\refint\OperadorsComparativosHelpers.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\OperadorsComparativosHelpers.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\parte3\OperadorsComparativosHelpers\obj\Debug\net7.0\ref\OperadorsComparativosHelpers.dll

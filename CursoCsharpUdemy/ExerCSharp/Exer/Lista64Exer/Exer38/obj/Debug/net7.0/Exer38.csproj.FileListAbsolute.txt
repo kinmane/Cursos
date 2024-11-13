@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\bin\Debug\net7.0\Exer38.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\bin\Debug\net7.0\Exer38.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\bin\Debug\net7.0\Exer38.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\bin\Debug\net7.0\Exer38.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\bin\Debug\net7.0\Exer38.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\refint\Exer38.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\Exer38.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Lista64Exer\Exer38\obj\Debug\net7.0\ref\Exer38.dll

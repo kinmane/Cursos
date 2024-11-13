@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\bin\Debug\net7.0\SemOO.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\bin\Debug\net7.0\SemOO.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\bin\Debug\net7.0\SemOO.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\bin\Debug\net7.0\SemOO.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\bin\Debug\net7.0\SemOO.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\refint\SemOO.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\SemOO.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte4\SemOO\obj\Debug\net7.0\ref\SemOO.dll

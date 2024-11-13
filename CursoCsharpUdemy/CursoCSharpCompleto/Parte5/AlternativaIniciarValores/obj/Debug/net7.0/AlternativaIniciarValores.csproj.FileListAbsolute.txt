@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\bin\Debug\net7.0\AlternativaIniciarValores.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\bin\Debug\net7.0\AlternativaIniciarValores.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\bin\Debug\net7.0\AlternativaIniciarValores.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\bin\Debug\net7.0\AlternativaIniciarValores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\bin\Debug\net7.0\AlternativaIniciarValores.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\refint\AlternativaIniciarValores.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\AlternativaIniciarValores.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Parte5\AlternativaIniciarValores\obj\Debug\net7.0\ref\AlternativaIniciarValores.dll

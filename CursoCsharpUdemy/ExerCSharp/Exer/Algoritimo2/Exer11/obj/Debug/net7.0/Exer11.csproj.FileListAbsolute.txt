@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\bin\Debug\net7.0\Exer11.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\bin\Debug\net7.0\Exer11.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\bin\Debug\net7.0\Exer11.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\bin\Debug\net7.0\Exer11.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\bin\Debug\net7.0\Exer11.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\refint\Exer11.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\Exer11.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\Exer\Algoritimo2\Exer11\obj\Debug\net7.0\ref\Exer11.dll

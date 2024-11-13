@@ -1,0 +1,15 @@
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\bin\Debug\net7.0\PesquisaString.exe
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\bin\Debug\net7.0\PesquisaString.deps.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\bin\Debug\net7.0\PesquisaString.runtimeconfig.json
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\bin\Debug\net7.0\PesquisaString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\bin\Debug\net7.0\PesquisaString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.csproj.AssemblyReference.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\refint\PesquisaString.dll
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.pdb
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\PesquisaString.genruntimeconfig.cache
+C:\Users\gabriel.rorato\Documents\GitHub\Cursos\CursoCsharpUdemy\CursoDotNet\OrganizacaoNamespace\PesquisaString\obj\Debug\net7.0\ref\PesquisaString.dll
