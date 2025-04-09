@@ -1,0 +1,40 @@
+/*
+Menu: #C5C5B2
+Conteúdo:#E8E8D9
+Link: #4B566A
+H1: #828271
+*/
+
+body {
+    background: #D2D2C1 url(../img/fundo.png);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+#principal {
+    width: 900px;    
+}
+
+#menu {
+    background: #C5C5B2;
+    padding: 20px;
+}
+
+#conteudo {
+    background: #E8E8D9;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+a {
+    color: #4B566A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.3em;
+}
