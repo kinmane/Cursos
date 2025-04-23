@@ -6,7 +6,7 @@ H1: #828271
 */
 
 body {
-    background: #D2D2C1 url(../img/fundo.png);
+    background: #2e2b3b url(../img/fundo.png);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 }
 
@@ -37,4 +37,66 @@ a {
 h1 {
     color: #828271;
     font-size: 1.3em;
+}
+
+/* Estilo para o formulário */
+form {
+    background: #E8E8D9;
+    padding: 20px;
+    border: 1px solid #C5C5B2;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form label {
+    font-weight: bold;
+    color: #4B566A;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #C5C5B2;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+form button {
+    background: #4B566A;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+form button:hover {
+    background: #828271;
+}
+
+/* Estilo para a lista de redes sociais */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+ul li a {
+    color: #4B566A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    text-decoration: underline;
 }
